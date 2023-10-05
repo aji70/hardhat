@@ -1,0 +1,22 @@
+{
+  "name": "hardhat",
+  "version": "1.0.0",
+  "description": "testing hardat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githhub.com/aji70.git"
+  },
+  "author": "Ajidokwu Sabo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://githhub.com/aji70/issues"
+  },
+  "homepage": "https://githhub.com/aji70#readme",
+  "devDependencies": {
+    "hardhat": "^2.17.4"
+  }
+}
